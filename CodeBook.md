@@ -11,6 +11,10 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 The average of each variable for each activity and each subject
 Variables include the following:
 ========================================================================
+"subject"
+
+"activity"
+
 "tBodyAcc-mean()-X"           
 
 "tBodyAcc-mean()-Y"          
