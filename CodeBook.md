@@ -48,6 +48,9 @@ Variables include the following:
 The dataset includes the following files:
 ========================================================================
 tidy.txt: output of human activity recognition using smartphones information
+
 run_analysis.R: contains all of codes that prepared tidy dataset
+
 CodeBook.md: describes the variables, the data, and any transformations or work that I performed to clean up the data 
+
 README.md: explains how all of the scripts work and how they are connected
